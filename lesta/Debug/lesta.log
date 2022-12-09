@@ -1,0 +1,6 @@
+﻿  lesta.cpp
+C:\Users\Deathcore1998\Desktop\myportfolio\lesta\lesta\lesta.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  NightmareRealmGame.cpp
+C:\Users\Deathcore1998\Desktop\myportfolio\lesta\lesta\NightmareRealmGame.cpp(173,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  lesta.vcxproj -> C:\Users\Deathcore1998\Desktop\myportfolio\lesta\Debug\lesta.exe
